@@ -1,0 +1,41 @@
+{
+	"version": "1.0.0",
+	"name": "cordova-plugin-rayka",
+	"cordova_name": "Rayka",
+	"description": "Show Rayka banner, interstitial and video ads",
+	"license": "MIT",
+	"keywords": [
+		"cordova",
+		"plugin",
+		"ad",
+		"vinoos",
+		"rayka",
+		"raykaad",
+		"ecosystem:cordova",
+		"cordova-android"
+	],
+	"platforms": [
+		"android"
+	],
+	"engines": [
+		{
+			"name": "cordova",
+			"version": ">=3.0.0"
+		}
+	],
+	"cordova": {
+		"id": "cordova-plugin-rayka",
+		"platforms": [
+			"android"
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/raykaad/cordova-plugin-rayka"
+	},
+	"author": "Vinoos",
+	"bugs": {
+		"url": "https://github.com/raykaad/cordova-plugin-rayka/issues"
+	},
+	"homepage": "https://github.com/raykaad/cordova-plugin-rayka#readme"
+}
